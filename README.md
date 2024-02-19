@@ -1,11 +1,18 @@
-### Hi there 👋,I'm ProAlize.
+### Hi there 👋,I'm Tianshuo Yuan.
 
 - 🔭 I’m currently study in NEU.
-- 🌱 I’m currently learning Computer Version.
+- 🌱 I’m currently learning Artificial Intelligence.
 - 💬 Ask me about anything related to Cpp/Go/Python.
 - 📫 How to reach me: tianshuoyuan@qq.com
+- :star: My username ProAlize comes from my dream "do something breakthrough！" and I'm ready to make it happen ！
+
+
 
 ![](https://github-readme-stats.vercel.app/api?username=ProAlize&show_icons=true&theme=transparent)
+
+
+
+
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/ProAlize/count.svg) visitor,Thank You!
 
