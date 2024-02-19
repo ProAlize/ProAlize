@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋,I'm ProAlize.
 
-<!--
-**ProAlize/ProAlize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently study in NEU.
+- 🌱 I’m currently learning Computer Version.
+- 💬 Ask me about anything related to Cpp/Go/Python.
+- 📫 How to reach me: tianshuoyuan@qq.com
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=ProAlize&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You are my ![Visitor Count](https://profile-counter.glitch.me/ProAlize/count.svg) visitor,Thank You!
+
+### My Skill Set
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+)![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
