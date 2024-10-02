@@ -1,6 +1,6 @@
-### Hi there 👋,I'm Tianshuo Yuan.
+### Hi there 👋,I'm ProAlize
 
-- 🔭 I’m currently study in NEU.
+- 🔭 I’m currently study in SIAT.
 - 🌱 I’m currently learning Artificial Intelligence.
 - 💬 Ask me about anything related to Cpp/Go/Python.
 - 📫 How to reach me: tianshuoyuan@qq.com
