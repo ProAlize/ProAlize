@@ -3,7 +3,7 @@
 - 🔭 I’m currently study in SIAT.
 - 🌱 I’m currently learning Artificial Intelligence.
 - 💬 Ask me about anything related to Cpp/Go/Python.
-- 📫 How to reach me: tianshuoyuan@qq.com
+- 📫 How to reach me: tianshuoy@outlook.com
 - :star: My username ProAlize comes from my dream "do something breakthrough！" and I'm ready to make it happen ！
 
 
